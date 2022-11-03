@@ -1,0 +1,1 @@
+# UbuntuDjango_beautyClinicApp
